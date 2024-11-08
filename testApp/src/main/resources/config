@@ -1,0 +1,4 @@
+kolone: 1,4,5
+dodatne_kolone: AVG(1,4)-kol4,SUM(4,5)-kol10
+naslov: Imam naslov
+format:
