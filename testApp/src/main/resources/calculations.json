@@ -1,0 +1,24 @@
+{
+  "calculations": [
+    {
+      "operation": "plus",
+      "columns": ["predmet1", "predmet2", "predmet3"],
+      "result": "total_predmeti"
+    },
+    {
+      "operation": "mnozenje",
+      "columns": ["predmet1", "predmet2", "year"],
+      "result": "multiplication_predmeti_year"
+    },
+    {
+      "operation": "minus",
+      "columns": ["predmet3", "predmet2"],
+      "result": "difference_predmeti"
+    },
+    {
+      "operation": "deljenje",
+      "columns": ["predmet3", "predmet1"],
+      "result": "division_predmeti"
+    }
+  ]
+}

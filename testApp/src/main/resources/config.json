@@ -1,0 +1,24 @@
+{
+  "title": {
+    "bold": true,
+    "italic": false,
+    "underline": true,
+    "color": "#0000FF"
+  },
+  "summary": {
+    "bold": false,
+    "italic": true,
+    "underline": false,
+    "color": "#FF5733"
+  },
+  "header": {
+    "bold": true,
+    "italic": false,
+    "underline": false,
+    "color": "#333333"
+  },
+  "table": {
+    "borderThickness": 2,
+    "borderColor": "#000000"
+  }
+}

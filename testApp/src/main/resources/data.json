@@ -1,0 +1,83 @@
+[
+  {
+    "ROW": 1,
+    "ID": 1,
+    "Ime": "Ugljesa",
+    "year": 1,
+    "class_group": "101",
+    "predmet1": 6,
+    "predmet2": 8,
+    "predmet3": 9
+  },
+  {
+    "ROW": 2,
+    "ID": 2,
+    "Ime": "Aleksa",
+    "year": 3,
+    "class_group": "306b",
+    "predmet1": 10,
+    "predmet2": 7,
+    "predmet3": 8
+  },
+  {
+    "ROW": 3,
+    "ID": 3,
+    "Ime": "Dragan",
+    "year": 4,
+    "class_group": "403",
+    "predmet1": 10,
+    "predmet2": 9,
+    "predmet3": 10
+  },
+  {
+    "ROW": 4,
+    "ID": 4,
+    "Ime": "Sofronije",
+    "year": 2,
+    "class_group": "221",
+    "predmet1": 6,
+    "predmet2": 7,
+    "predmet3": 6
+  },
+  {
+    "ROW": 5,
+    "ID": 5,
+    "Ime": "Dragutin",
+    "year": 3,
+    "class_group": "301",
+    "predmet1": 7,
+    "predmet2": 7,
+    "predmet3": 8
+  },
+  {
+    "ROW": 6,
+    "ID": 6,
+    "Ime": "Zitomir",
+    "year": 1,
+    "class_group": "121",
+    "predmet1": 9,
+    "predmet2": 8,
+    "predmet3": 9
+  },
+  {
+    "ROW": 7,
+    "ID": 7,
+    "Ime": "Slavica",
+    "year": 4,
+    "class_group": "401",
+    "predmet1": 10,
+    "predmet2": 10,
+    "predmet3": 10
+  },
+  {
+    "ROW": 8,
+    "ID": 8,
+    "Ime": "Andrea",
+    "year": 3,
+    "class_group": "303",
+    "predmet1": 10,
+    "predmet2": 9,
+    "predmet3": 6
+  }
+]
+

@@ -1,0 +1,13 @@
+ROW,ID,Ime,year,class_group,predmet1,predmet2,predmet3,total_predmeti,multiplication_predmeti_year,difference_predmeti,division_predmeti
+1,1,Ugljesa,1,101,6,8,9,23.0,48.0,1.0,1.5
+2,2,Aleksa,3,306b,10,7,8,25.0,210.0,1.0,0.8
+3,3,Dragan,4,403,10,9,10,29.0,360.0,1.0,1.0
+4,4,Sofronije,2,221,6,7,6,19.0,84.0,-1.0,1.0
+5,5,Dragutin,3,301,7,7,8,22.0,147.0,1.0,1.1428571428571428
+6,6,Zitomir,1,121,9,8,9,26.0,72.0,1.0,1.0
+7,7,Slavica,4,401,10,10,10,30.0,400.0,0.0,1.0
+8,8,Andrea,3,303,10,9,6,25.0,270.0,-3.0,0.6
+
+Summary:
+
+COUNT (kolona 'predmet3'): 8
